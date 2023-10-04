@@ -1,0 +1,28 @@
+.c{
+    width: 388px;
+    height: 199px;
+    border: 2px blue double;
+
+}
+.c1{
+    background-color: crimson;
+    margin-top:167px;;
+    margin-left: 170px;
+
+}
+.c2{
+    background-color: darksalmon;
+    margin-top: -202px;
+    margin-left: 577px;
+}
+span{
+    color: green;
+    
+}
+#d4{
+    color: burlywood;
+}
+body{
+    background-image: url(./th.jpeg);
+}
+
